@@ -8,5 +8,6 @@
 ## Objectif  
   
 S'exercer vis-à-vis des animations en CSS, en particulier en 3D.  
+Still got to weigh out whether or not I leave it on public display.
   
 ![Do or do not](https://i.imgur.com/WOpf0Sf.gif)
